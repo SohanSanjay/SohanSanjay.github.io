@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Sohan Sanjay Malkaruge Costa
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th May 1993
     - name: Languages
-      value: English, German
+      value: English, Sihala
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Tennessee, Knoxville, Tennessee, US
+      year: Expected in 2026
       description:
-        - Description 1.
-        - Description 2.
+        - PhD in Physics. Concentrated in Condensed matter physics.
+        - Advisor: Prof. Steven Johnston
         - title: Description 3.
           contents:
             - Sub-description 1.
