@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sohan Sanjay Malkaruge Costa",
-    "label": "PhD Student in Physics",
+    "Position": "PhD Student in Physics",
     "image": "",
     "email": "sohan.costa@gmail.com",
     "phone": "+1-865-249-3030",
@@ -114,7 +114,7 @@
       "startDate": "2011",
       "endDate": "2015",
       "summary": "Conducted and participated in many astronomical workshops and observation night-campss to promote astronomy among school students.",
-      "highlights": ["Astronomy","Clasical Mechanics"]
+      "highlights": ["Astronomy","Classical Mechanics"]
     }
     ,
     {
@@ -125,7 +125,7 @@
       "startDate": "2013",
       "endDate": "2014",
       "summary": "Crew member of World Space Week Sri Lanka, which is an affiliate organization of World Space Week Association (WSWA). Organized many space science related events to promote space science among school students.",
-      "highlights": ["Astronomy","Clasical Mechanics"]
+      "highlights": ["Astronomy","Classical Mechanics"]
     }
   ],
   
@@ -134,38 +134,30 @@
       "title": "Graduate Student Senate (GSS) Travel Award ",
       "date": "2024",
       "awarder": "Graduate Student Senate (GSS), University of Tennessee, Knoxville",
-      "url": "",
+      "url": "https://gss.utk.edu/gss-travel-awards/",
       "summary": ""
     },
     {
       "title": "Birkhoff Fellowship",
       "date": "2022-2023",
       "awarder": "University of Tennessee, Knoxville",
-      "url": "",
+      "url": "https://physics.utk.edu/alumni/giving-opportunities/",
       "summary": ""
     },
     {
       "title": "Graduate Student Senate (GSS) Travel Award",
       "date": "2023",
       "awarder": "University of Tennessee, Knoxville",
-      "url": "",
+      "url": "https://gss.utk.edu/gss-travel-awards/",
       "summary": ""
     },
     {
       "title": "Graduate Fellowship",
       "date": "2019-2021",
       "awarder": "University of Tennessee, Knoxville",
-      "url": "",
+      "url": "https://gradschool.utk.edu/costs-and-funding/graduate-fellowships/",
       "summary": ""
-    },
-    {
-      "title": "Many school awards",
-      "date": "2008-2012",
-      "awarder": "",
-      "url": "",
-      "summary": "Many awards related to physics, mathematics, chemistry and astronomy including Olympiads competitions"
     }
-    
   ],
   
   "publications": [
