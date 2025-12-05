@@ -36,6 +36,9 @@ ninja.data = [{
           section: "News",},{id: "news-final-date-for-aps-march-meeting-abstract-submission",
           title: 'Final date for APS March meeting Abstract submission.',
           description: "",
+          section: "News",},{id: "news-submit-pre-print-in-arxiv-antiferromagnetism-and-kekulé-valence-bond-order-in-the-honeycomb-optical-su-schrieffer-heeger-hubbard-model-the-precise-role-of-e-ph-coupling-in-graphene-and-related-materials-on-a-honeycomb-lattice-is-not-yet-fully-understood-despite-extensive-research-on-these-systems-here-we-perform-sign-problem-free-determinant-quantum-monte-carlo-dqmc-simulations-of-the-optical-su-schrieffer-heeger-ossh-hubbard-model-on-the-honeycomb-lattice-focusing-on-the-parameters-relevant-to-graphene-performing-finite-size-scaling-analyzes-we-obtain-the-model-s-ground-state-phase-diagram-which-includes-the-semi-metal-sm-kekulé-valence-bond-solid-kvbs-and-anti-ferromagnetic-afm-phases-as-well-as-indications-of-a-small-kvbs-afm-coexistence-region-we-find-that-a-weak-to-moderate-hubbard-repulsion-tuned-toward-the-sm-afm-critical-value-in-the-pure-honeycomb-hubbard-model-enhances-kvbs-correlations-and-can-even-stabilize-the-kvbs-phase-estimating-the-effective-parameters-for-graphene-places-it-in-the-sm-region-of-the-phase-diagram-but-near-the-sm-kvbs-phase-boundary-notably-we-predict-that-increasing-either-the-on-site-hubbard-repulsion-or-the-e-ph-coupling-strength-drives-graphene-toward-the-kvbs-phase-rather-than-the-afm-phase-highlighting-a-synergistic-effect-that-can-be-exploited-to-further-control-the-remarkable-properties-of-graphene-and-related-materials-https-arxiv-org-abs-2511-21440",
+          title: 'Submit pre-print in arxiv - Antiferromagnetism and Kekulé valence bond order in the...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
