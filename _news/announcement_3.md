@@ -1,8 +1,9 @@
 ---
+---
 layout: post
 date: 2025-12-4 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Submit pre-print on [arXiv](https://arxiv.org/abs/2511.21440)
+Submit pre-print in <a href="https://arxiv.org/abs/2511.21440">arxiv</a>
