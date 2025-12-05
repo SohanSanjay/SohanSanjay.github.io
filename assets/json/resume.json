@@ -223,6 +223,13 @@
       "releaseDate": "2025-03",
       "url": "https://schedule.aps.org/smt/2025/events/MAR-N49/12",
       "summary": "Graphene is one of the most widely studied two-dimensional quantum materials and is known to host a variety of emergent quantum phenomena, such as relativistic fermions, quantum Hall effect, superconductivity, etc. In a previous determinant quantum Monte Carlo (DQMC) study, we examined the effect of electron-phonon (e-ph) coupling on the honeycomb lattice and demonstrated that this interaction can drive the formation of the Kekule valance bond solid (KVBS) state, which are commonly observed in strained graphene, for specific coupling and phonon frequency values. Here, we extend this study to include the interplay of e-ph interactions and Hubbard interactions."
+    },
+    {
+      "name": "Antiferromagnetism and Kekulé valence bond order in the honeycomb optical Su-Schrieffer-Heeger-Hubbard model",
+      "publisher": "Submitted to Phys. Rev. B",
+      "releaseDate": "2025-12",
+      "url": "https://arxiv.org/abs/2511.21440",
+      "summary": "The precise role of e-ph coupling in graphene and related materials on a honeycomb lattice is not yet fully understood, despite extensive research on these systems. Here, we perform sign-problem-free determinant quantum Monte Carlo (DQMC) simulations of the optical Su-Schrieffer-Heeger (oSSH)-Hubbard model on the honeycomb lattice, focusing on the parameters relevant to graphene."
     }
     
   ],
