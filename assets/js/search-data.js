@@ -36,8 +36,8 @@ ninja.data = [{
           section: "News",},{id: "news-final-date-for-aps-march-meeting-abstract-submission",
           title: 'Final date for APS March meeting Abstract submission.',
           description: "",
-          section: "News",},{id: "news-submit-pre-print-in-arxiv",
-          title: 'Submit pre-print in arxiv',
+          section: "News",},{id: "news-submit-pre-print-on-arxiv",
+          title: 'Submit pre-print on arXiv',
           description: "",
           section: "News",},{
         id: 'social-email',
