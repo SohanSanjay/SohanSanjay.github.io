@@ -36,10 +36,12 @@ ninja.data = [{
           section: "News",},{id: "news-final-date-for-aps-march-meeting-abstract-submission",
           title: 'Final date for APS March meeting Abstract submission.',
           description: "",
-          section: "News",},{id: "news-submit-pre-print-on-arxiv",
-          title: 'Submit pre-print on arXiv',
+          section: "News",},{id: "news-announcement-3",
+          title: 'Announcement_3',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
