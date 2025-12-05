@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submit pre-print in arxiv - https://arxiv.org/abs/2511.21440
+Submit pre-print in [arxiv](https://arxiv.org/abs/2511.21440)
